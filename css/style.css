@@ -1,0 +1,116 @@
+body{
+  background-color: grey;
+
+
+}
+
+h1{
+  color:#5B3F5C;
+  padding: 15px 10px;
+  border: 4px solid #5B3F5C;
+  background-color: #EBCFA1;
+  border-radius: 8px;
+  width: 600px;
+  font-size: 36px;
+
+}
+p1{
+  font-size: 36px;
+  color:black;
+  background-color: #9E6B3A;
+  border-radius: 8px;
+  width: 550px;
+}
+p2{
+  font-size: 36px;
+  color:black;
+  background-color: #E6ADAA;
+  border-radius: 8px;
+  width: 550px;
+
+}
+p3{
+  font-size: 36px;
+  color:black;
+  background-color: #E6ADAA;
+  border-radius: 8px;
+  width: 550px;
+}
+
+p4{
+  font-size: 36px;
+  color:black;
+  background-color: #E6ADAA;
+  border-radius: 8px;
+  width: 550px;
+}
+h2{
+  color:#5B3F5C;
+  padding: 15px 10px;
+  border: 4px solid #5B3F5C;
+  background-color: #87E6AB;
+  border-radius: 8px;
+  width: 600px;
+  font-size: 36px;
+}
+
+h3{
+  color:black;
+  padding: 15px 10px;
+  border: 4px solid black;
+  background-color: #D7A8DE;
+  border-radius: 8px;
+  width: 600px;
+  font-size: 36px;
+}
+h4{
+  color:black;
+  padding: 15px 10px;
+  border: 4px solid black;
+  background-color: #BFDEC9;
+  border-radius: 8px;
+  width: 600px;
+  font-size: 36px;
+}
+.room{
+background-image: url(https://images7.alphacoders.com/106/thumb-1920-1061724.jpg);
+
+}
+.main{
+  background-image: url(https://images5.alphacoders.com/746/746823.jpg);
+
+}
+
+.style{
+  background-image: url(http://mtdata.ru/u3/photo5400/20344405193-0/original.jpg)
+}
+.hobby{
+  background-image: url(https://edexec.co.uk/wp-content/uploads/2021/04/colorful-doodle-hobby-seamless-pattern-stay-home-concept-isolated-on-vector-id1226226348.jpg)
+}
+
+a{
+  color:black;
+  padding: 15px 10px;
+  border: 4px solid black;
+  background-color: #C4B9E2;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+
+}
+
+a:hover{
+  background-color: black;
+  color:#C4B9E2;
+  font-size: 35px;
+  text-decoration: none;
+
+}
+
+li{
+  list-style-type: none;
+  display: inline;
+
+}
